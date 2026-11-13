@@ -31,3 +31,5 @@ def devine_le_nombre():
 
 if __name__ == "__main__":
   devine_le_nombre()
+
+#ajout
